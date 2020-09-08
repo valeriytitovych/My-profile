@@ -30,12 +30,14 @@ a:link {
         color:            #b76666;
         text-decoration:  none;
         border-bottom:    thin dotted #b76666;
+        font-weight: bold;
 }
       
 a:visited {
         color:            #675c47;
         text-decoration:  none;
         border-bottom:    thin dotted #675c47;
+        font-weight: bold;
 }
 
 footer {
@@ -49,4 +51,11 @@ footer {
 
 span {
     color:            #954b4b;
+}
+
+img#myphoto {
+        float: right;
+        border: thin dotted;
+        padding: 15px; 
+        margin-right: 10px; 
 }
